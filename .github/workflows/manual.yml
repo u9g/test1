@@ -60,6 +60,7 @@ jobs:
           npm install
           node bin/generateLogs.js ${{ github.event.inputs.version }}
           mv packets/* .. && cd ..
+          ls
           rm -r code
           ls
     - name: Send greeting
