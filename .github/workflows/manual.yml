@@ -35,9 +35,13 @@ jobs:
     # Runs a single command using the runners shell
     - name: clone
       run: |
+          mkdir code && cd code
           git clone https://github.com/PrismarineJS/prismarine-packet-dumper
           cd prismarine-packet-dumper
           npm install
+          node bin/generateLogs.js ${{ github.event.inputs.version }}
+          mv packets ../packets
+          cd ..
           ls
     - name: Send greeting
       run: echo "Hello ${{ github.event.inputs.version }}"
