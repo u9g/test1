@@ -38,23 +38,13 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-        
-    - name: go to directory
-      run: cd data/pc
-      
-    - name: delete old subdirectory
-#       continue-on-error: true
-      run: rm -Rf ${{ github.event.inputs.version }}
-      
-    - name: make new subdirectory
-      run: mkdir ${{ github.event.inputs.version }}
-      
-    - name: go into subdirectory
-      run: cd ${{ github.event.inputs.version }}
     # Runs a single command using the runners shell
     - name: run dump
       run: |
-          mkdir code && cd code
+          cd data/pc
+          mkdir ${{ github.event.inputs.version }}
+          mkdir code && cd code && cd ${{ github.event.inputs.version }}
+          rm -Rf ${{ github.event.inputs.version }}
           git clone https://github.com/PrismarineJS/prismarine-packet-dumper
           cd prismarine-packet-dumper
           npm install
@@ -64,10 +54,10 @@ jobs:
           ls
     - name: Create commits
       run: |
-          git config user.name 'rom1504bot'
-          git config user.email 'rom1504bot@users.noreply.github.com'
+          git config user.name 'u9g'
+          git config user.email 'u9g@users.noreply.github.com'
           git add --all
-          git commit --amend -m "Update gh-pages"
+          git commit --amend -m "add ${{ github.event.inputs.version }}"
     - name: Deploy 🚀
       uses: ad-m/github-push-action@master
       with:
