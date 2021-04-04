@@ -22,9 +22,22 @@ jobs:
   greet:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [14.x]
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v1
+      with:
+        node-version: ${{ matrix.node-version }}
     # Runs a single command using the runners shell
+    - name: clone
+      run: |
+          git clone https://github.com/PrismarineJS/prismarine-packet-dumper
+          cd prismarine-packet-dumper
+          npm install
+          ls
     - name: Send greeting
       run: echo "Hello ${{ github.event.inputs.version }}"
