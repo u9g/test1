@@ -43,8 +43,8 @@ jobs:
       run: cd data/pc
       
     - name: delete old subdirectory
-      continue-on-error: true
-      run: rm -r ${{ github.event.inputs.version }}
+#       continue-on-error: true
+      run: rm -Rf ${{ github.event.inputs.version }}
       
     - name: make new subdirectory
       run: mkdir ${{ github.event.inputs.version }}
@@ -62,5 +62,15 @@ jobs:
           mv packets/* ../.. && cd ../..
           rm -r code
           ls
-    - name: Send greeting
-      run: echo "Hello ${{ github.event.inputs.version }}"
+    - name: Create commits
+      run: |
+          git config user.name 'rom1504bot'
+          git config user.email 'rom1504bot@users.noreply.github.com'
+          git add --all
+          git commit --amend -m "Update gh-pages"
+    - name: Deploy 🚀
+      uses: ad-m/github-push-action@master
+      with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: true

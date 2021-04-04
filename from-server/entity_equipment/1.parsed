@@ -1,0 +1,13 @@
+{
+  "entityId": 37,
+  "equipments": [
+    {
+      "slot": 0,
+      "item": {
+        "present": true,
+        "itemId": 611,
+        "itemCount": 1
+      }
+    }
+  ]
+}
