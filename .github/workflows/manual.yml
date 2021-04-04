@@ -41,7 +41,8 @@ jobs:
       continue-on-error: true
       run: |
           cd data/pc
-          rm -r ${{ github.event.inputs.version }}; mkdir ${{ github.event.inputs.version }}
+          rm -r ${{ github.event.inputs.version }}
+          mkdir ${{ github.event.inputs.version }}
           cd ${{ github.event.inputs.version }}
     # Runs a single command using the runners shell
     - name: run dump
