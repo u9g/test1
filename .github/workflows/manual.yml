@@ -33,17 +33,24 @@ jobs:
       with:
         persist-credentials: false
         fetch-depth: 0
+        
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
+        
     - name: go to directory
-      continue-on-error: true
-      run: |
-          cd data/pc
-          rm -r ${{ github.event.inputs.version }}
-          mkdir ${{ github.event.inputs.version }}
-          cd ${{ github.event.inputs.version }}
+      run: cd data/pc
+      
+    - name: delete old subdirectory
+      if: -d "${{ github.event.inputs.version }}"
+      run: rm -r ${{ github.event.inputs.version }}
+      
+    - name: make new subdirectory
+      run: mkdir ${{ github.event.inputs.version }}
+      
+    - name: go into subdirectory
+      run: cd ${{ github.event.inputs.version }}
     # Runs a single command using the runners shell
     - name: run dump
       run: |
