@@ -43,7 +43,7 @@ jobs:
       run: cd data/pc
       
     - name: delete old subdirectory
-      if: -d "${{ github.event.inputs.version }}"
+      continue-on-error: true
       run: rm -r ${{ github.event.inputs.version }}
       
     - name: make new subdirectory
