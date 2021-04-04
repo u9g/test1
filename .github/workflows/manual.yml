@@ -40,7 +40,8 @@ jobs:
     - name: go to directory
       run: |
           cd data/pc
-          rm -r ${{ github.event.inputs.version }}
+          rm -r ${{ github.event.inputs.version }} 2>/dev/null
+          mkdir ${{ github.event.inputs.version }}
           cd ${{ github.event.inputs.version }}
     # Runs a single command using the runners shell
     - name: run dump
