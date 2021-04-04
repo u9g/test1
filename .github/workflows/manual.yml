@@ -59,8 +59,7 @@ jobs:
           cd prismarine-packet-dumper
           npm install
           node bin/generateLogs.js ${{ github.event.inputs.version }}
-          mv packets/* .. && cd ..
-          ls
+          mv packets/* ../.. && cd ../..
           rm -r code
           ls
     - name: Send greeting
