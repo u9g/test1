@@ -42,8 +42,8 @@ jobs:
     - name: run dump
       run: |
           cd data/pc
-          mkdir ${{ github.event.inputs.version }}
-          mkdir code && cd code && cd ${{ github.event.inputs.version }}
+          mkdir ${{ github.event.inputs.version }} && cd ${{ github.event.inputs.version }}
+          mkdir code && cd code
           rm -Rf ${{ github.event.inputs.version }}
           git clone https://github.com/PrismarineJS/prismarine-packet-dumper
           cd prismarine-packet-dumper
