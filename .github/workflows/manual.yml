@@ -54,7 +54,10 @@ jobs:
           cd prismarine-packet-dumper
           npm install
           node bin/generateLogs.js ${{ github.event.inputs.version }}
-          mv packets/* ../.. && cd ../..
+          node bin/testCoverage.js ${{ github.event.inputs.version }}
+          mv packets/* ../..
+          mv packets_info.md ../..
+          cd ../..
           rm -r code
           ls
     - name: Create commits
