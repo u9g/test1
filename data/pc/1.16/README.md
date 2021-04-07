@@ -1,6 +1,3 @@
-<details><summary>1.16</summary>
-<p>
-
 <details><summary>Collected (39)</summary>
 <p>
 
@@ -35,16 +32,16 @@
 | update_health |
 | experience |
 | keep_alive |
-| entity_move_look |
 | rel_entity_move |
-| entity_teleport |
 | advancements |
-| multi_block_change |
-| entity_head_rotation |
-| block_change |
 | entity_look |
+| entity_head_rotation |
+| entity_teleport |
+| entity_move_look |
+| multi_block_change |
+| block_change |
 | entity_destroy |
-| world_event |
+| sound_effect |
 
 </p>
 </details>
@@ -77,6 +74,7 @@
 | unload_chunk |
 | game_state_change |
 | open_horse_window |
+| world_event |
 | world_particles |
 | map |
 | trade_list |
@@ -100,15 +98,11 @@
 | title |
 | entity_sound_effect |
 | stop_sound |
-| sound_effect |
 | playerlist_header |
 | collect |
 | entity_effect |
 | select_advancement_tab |
 | acknowledge_player_digging |
-
-</p>
-</details>
 
 </p>
 </details>
