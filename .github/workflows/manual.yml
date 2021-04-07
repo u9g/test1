@@ -59,7 +59,7 @@ jobs:
           mv packets/* ../..
           mv README.md ../..
           mkdir ../../metadata
-          mv packet_info.json ../../metadata
+          mv packets_info.json ../../metadata
           cd ../..
           rm -r code
           ls
