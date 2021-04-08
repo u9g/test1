@@ -32,8 +32,8 @@ jobs:
       run: |
         npm i -g prismarine-packet-dumper
         generateMinecraftPackets ${{ matrix.mcVersionIndex }}
-        rm server/ && rm versions/
-        mv packets/* . && rm packets
+        rm -Rf server/ && rm -Rf versions/
+        mv packets/* . && rm -Rf packets
         ls
         
     - name: Upload artifacts
