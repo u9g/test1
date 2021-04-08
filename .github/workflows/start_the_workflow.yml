@@ -46,16 +46,27 @@ jobs:
     needs: dump-packets
     runs-on: ubuntu-latest
     steps:
-    - name: Use Node.js 14.x
-      uses: actions/setup-node@v1
+    - name: Checkout 🛎️
+      uses: actions/checkout@v2.3.1 # If you're using actions/checkout@v2 you must set persist-credentials to false in most cases for the deployment to work correctly.
       with:
-        node-version: 14.x
+        persist-credentials: false
+        fetch-depth: 0
+    
+    - name: make artifacts dir
+      run: mkdir artifacts && cd artifacts
+        
     - name: my-artifact
       uses: actions/download-artifact@v2
       with:
         name: packets
         path: .
         
-    - name: Display structure of downloaded files
-      run: ls -R
+    - name: Delete all folders we want to overwrite
+      run: |
+        for d in */.; do ! test -d ../"$d" || rm -Rf "$d"; done
         
+    - name: remove artifacts dir
+      run: cd .. && rm -Rf artifacts
+      
+    - name: ls
+      run: ls -R
