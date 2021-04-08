@@ -54,7 +54,7 @@ jobs:
     
     - name: make artifacts dir
       run: |
-        cd data/pc
+        cd data && cd pc
         mkdir artifacts && cd artifacts
         
     - name: my-artifact
