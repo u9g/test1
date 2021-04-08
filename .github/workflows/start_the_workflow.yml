@@ -53,7 +53,9 @@ jobs:
         fetch-depth: 0
     
     - name: make artifacts dir
-      run: mkdir artifacts && cd artifacts
+      run: |
+        cd data/pc
+        mkdir artifacts && cd artifacts
         
     - name: my-artifact
       uses: actions/download-artifact@v2
