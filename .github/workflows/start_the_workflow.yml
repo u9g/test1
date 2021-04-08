@@ -52,33 +52,22 @@ jobs:
         persist-credentials: false
         fetch-depth: 0
         
-    - name: ls
-      run: ls -R
-    
     - name: make artifacts dir
       run: |
         cd data/pc
-        mkdir artifacts && cd artifacts
-        
-    - name: ls
-      run: ls -R
+        mkdir artifacts
         
     - name: my-artifact
       uses: actions/download-artifact@v2
       with:
         name: packets
-        path: .
-        
-    - name: ls
-      run: ls -R
+        path: data/pc/artifacts
         
     - name: Delete all folders we want to overwrite
       run: |
+        cd data/pc/artifacts
         for d in */.; do ! test -d ../"$d" || echo rm -Rf "$d"; done
-        
-    - name: ls
-      run: ls -R
-        
+  
     - name: remove artifacts dir
       run: cd .. && rm -Rf artifacts
       
