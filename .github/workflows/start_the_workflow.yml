@@ -26,9 +26,6 @@ jobs:
         java-package: jre
 
     - name: Create commits
-      env:
-        CIRCLE_NODE_INDEX: ${{ matrix.mcVersionIndex }}
-        CIRCLE_NODE_TOTAL: 3
       run: |
         npm i -g prismarine-packet-dumper
         generateMinecraftPackets ${{ matrix.mcVersionIndex }}
@@ -42,5 +39,5 @@ jobs:
     - name: Upload artifacts
       uses: actions/upload-artifact@v2
       with:
-        name: my-artifact
-        path: path/to/artifact/ # or path/to/artifact
+        name: packets
+        path: .
