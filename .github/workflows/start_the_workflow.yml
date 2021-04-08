@@ -10,7 +10,7 @@ jobs:
 
     strategy:
       matrix:
-        mcVersionIndex: [1.8, 1.9, 1.10]
+        mcVersionIndex: ["1.8", "1.9", "1.10"]
 
     steps:
     
