@@ -13,3 +13,9 @@ jobs:
         workflow: Run Packet Dumper
         token: ${{ secrets.PERSONAL_TOKEN }}
         inputs: '{ "version": "1.11.2" }'
+    - name: Invoke second workflow
+      uses: benc-uk/workflow-dispatch@v1
+      with:
+        workflow: Run Packet Dumper
+        token: ${{ secrets.PERSONAL_TOKEN }}
+        inputs: '{ "version": "1.12.2" }'
