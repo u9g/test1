@@ -1,7 +1,7 @@
 name: Run Many Packet Dumper
 
 on:
-  workflow_dispatch: []
+  workflow_dispatch:
   
 jobs:
   dump:
