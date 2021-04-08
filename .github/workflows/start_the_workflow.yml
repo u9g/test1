@@ -64,7 +64,7 @@ jobs:
     - name: Delete all folders we want to overwrite
       run: |
         cd data/pc/artifacts
-        for d in */.; do ! test -d ../"$d" || echo rm -Rf "$d"; done
+        for d in */.; do ! test -d ../"$d" || rm -Rf "$d"; done
         cd .. && mv artifacts/* .
         rm -Rf artifacts
         
