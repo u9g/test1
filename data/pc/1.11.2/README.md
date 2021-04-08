@@ -23,19 +23,19 @@
 | update_health |
 | experience |
 | spawn_entity_living |
+| entity_equipment |
 | spawn_entity |
 | entity_velocity |
-| entity_equipment |
-| multi_block_change |
-| entity_head_rotation |
+| sound_effect |
 | entity_move_look |
-| rel_entity_move |
+| entity_head_rotation |
 | entity_look |
-| entity_teleport |
-| keep_alive |
+| rel_entity_move |
 | block_change |
+| entity_teleport |
+| multi_block_change |
+| keep_alive |
 | entity_destroy |
-| world_event |
 
 </p>
 </details>
@@ -65,6 +65,7 @@
 | explosion |
 | unload_chunk |
 | game_state_change |
+| world_event |
 | world_particles |
 | map |
 | entity |
@@ -83,7 +84,6 @@
 | teams |
 | scoreboard_score |
 | title |
-| sound_effect |
 | playerlist_header |
 | collect |
 | entity_effect |
