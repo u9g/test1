@@ -1,10 +1,8 @@
-name: dump many
+name: Run Many Packet Dumper
 
 on:
-  push:
-    branches: [ master ]
-  pull_request:
-
+  workflow_dispatch:
+  
 jobs:
   build:
 
