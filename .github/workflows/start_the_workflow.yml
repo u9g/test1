@@ -65,9 +65,8 @@ jobs:
       run: |
         cd data/pc/artifacts
         for d in */.; do ! test -d ../"$d" || echo rm -Rf "$d"; done
-  
-    - name: remove artifacts dir
-      run: cd .. && rm -Rf artifacts
-      
+        cd .. && mv artifacts/* .
+        rm -Rf artifacts
+        
     - name: ls
       run: ls -R
