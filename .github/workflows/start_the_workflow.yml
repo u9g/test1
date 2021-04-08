@@ -54,7 +54,7 @@ jobs:
     
     - name: make artifacts dir
       run: |
-        cd data && cd pc
+        cd data/pc
         mkdir artifacts && cd artifacts
         
     - name: my-artifact
@@ -65,7 +65,7 @@ jobs:
         
     - name: Delete all folders we want to overwrite
       run: |
-        for d in */.; do ! test -d ../"$d" || rm -Rf "$d"; done
+        for d in */.; do ! test -d ../"$d" || echo rm -Rf "$d"; done
         
     - name: remove artifacts dir
       run: cd .. && rm -Rf artifacts
