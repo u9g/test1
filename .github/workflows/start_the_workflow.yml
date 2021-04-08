@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   
 jobs:
-  build:
+  dump-packets:
 
     runs-on: ubuntu-latest
 
@@ -41,3 +41,21 @@ jobs:
       with:
         name: packets
         path: .
+
+  compile-and-commit:
+    needs: dump-packets
+    runs-on: ubuntu-latest
+    steps:
+    - name: Use Node.js 14.x
+      uses: actions/setup-node@v1
+      with:
+        node-version: 14.x
+    - name: my-artifact
+      uses: actions/download-artifact@v2
+      with:
+        name: packets
+        path: .
+        
+    - name: Display structure of downloaded files
+      run: ls -R
+        
