@@ -1,11 +1,15 @@
 name: Run Many Packet Dumper
 
 on:
-  workflow_dispatch:
-
-- name: Invoke workflow with inputs
-  uses: benc-uk/workflow-dispatch@v1
-  with:
-    workflow: Run Packet Dumper
-    token: ${{ secrets.PERSONAL_TOKEN }}
-    inputs: '{ "version": "1.11.2" }'
+  workflow_dispatch: []
+  
+jobs:
+  dump:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Invoke workflow with inputs
+      uses: benc-uk/workflow-dispatch@v1
+      with:
+        workflow: Run Packet Dumper
+        token: ${{ secrets.PERSONAL_TOKEN }}
+        inputs: '{ "version": "1.11.2" }'
