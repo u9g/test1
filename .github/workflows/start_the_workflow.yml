@@ -1,4 +1,4 @@
-name: Run Many Packet Dumper
+name: Run Auto Many Packets
 
 on:
   workflow_dispatch:
