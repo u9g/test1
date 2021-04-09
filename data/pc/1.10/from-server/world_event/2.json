@@ -1,10 +1,10 @@
 {
-  "effectId": 1025,
+  "effectId": 2001,
   "location": {
-    "x": -140,
-    "y": 17,
-    "z": 66
+    "x": 193,
+    "y": 73,
+    "z": 211
   },
-  "data": 0,
+  "data": 2,
   "global": false
 }

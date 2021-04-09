@@ -19,25 +19,25 @@
 | update_health |
 | experience |
 | map_chunk_bulk |
-| spawn_entity_living |
+| tile_entity_data |
 | entity_metadata |
 | update_attributes |
-| entity_head_rotation |
+| spawn_entity_living |
 | entity_equipment |
+| entity_head_rotation |
 | entity_look |
-| entity_teleport |
 | entity_velocity |
-| rel_entity_move |
-| entity_move_look |
 | world_event |
+| entity_teleport |
 | multi_block_change |
-| tile_entity_data |
-| spawn_entity |
 | block_change |
+| entity_move_look |
+| rel_entity_move |
+| spawn_entity |
 | entity_destroy |
 | keep_alive |
+| map_chunk |
 | entity_status |
-| named_sound_effect |
 
 </p>
 </details>
@@ -58,10 +58,10 @@
 | attach_entity |
 | entity_effect |
 | remove_entity_effect |
-| map_chunk |
 | block_action |
 | block_break_animation |
 | explosion |
+| named_sound_effect |
 | world_particles |
 | game_state_change |
 | spawn_entity_weather |

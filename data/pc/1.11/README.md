@@ -26,16 +26,16 @@
 | experience |
 | spawn_entity_living |
 | entity_teleport |
+| entity_head_rotation |
 | block_change |
 | multi_block_change |
-| entity_look |
-| entity_head_rotation |
-| entity_equipment |
-| entity_destroy |
-| entity_move_look |
-| world_event |
-| sound_effect |
 | rel_entity_move |
+| entity_destroy |
+| sound_effect |
+| entity_look |
+| world_event |
+| entity_move_look |
+| entity_equipment |
 | keep_alive |
 
 </p>

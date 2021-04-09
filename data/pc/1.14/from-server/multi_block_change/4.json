@@ -1,191 +1,96 @@
 {
-  "chunkX": 5,
-  "chunkZ": 13,
+  "chunkX": -13,
+  "chunkZ": 5,
   "records": [
     {
-      "horizontalPos": 77,
-      "y": 11,
-      "blockId": 9131
-    },
-    {
-      "horizontalPos": 46,
-      "y": 21,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 28,
-      "y": 21,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 46,
-      "y": 22,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 57,
-      "y": 23,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 61,
-      "y": 24,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 63,
-      "y": 22,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 63,
-      "y": 21,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 62,
-      "y": 23,
+      "horizontalPos": 241,
+      "y": 37,
       "blockId": 34
     },
     {
-      "horizontalPos": 79,
-      "y": 21,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 79,
-      "y": 23,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 95,
-      "y": 22,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 25,
-      "y": 23,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 30,
-      "y": 23,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 29,
-      "y": 21,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 30,
-      "y": 22,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 41,
-      "y": 23,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 42,
-      "y": 24,
+      "horizontalPos": 160,
+      "y": 37,
       "blockId": 34
     },
     {
-      "horizontalPos": 45,
-      "y": 24,
+      "horizontalPos": 160,
+      "y": 33,
+      "blockId": 0
+    },
+    {
+      "horizontalPos": 161,
+      "y": 36,
+      "blockId": 0
+    },
+    {
+      "horizontalPos": 163,
+      "y": 36,
+      "blockId": 0
+    },
+    {
+      "horizontalPos": 178,
+      "y": 36,
+      "blockId": 0
+    },
+    {
+      "horizontalPos": 194,
+      "y": 36,
+      "blockId": 0
+    },
+    {
+      "horizontalPos": 211,
+      "y": 36,
+      "blockId": 0
+    },
+    {
+      "horizontalPos": 229,
+      "y": 36,
+      "blockId": 0
+    },
+    {
+      "horizontalPos": 227,
+      "y": 37,
+      "blockId": 0
+    },
+    {
+      "horizontalPos": 227,
+      "y": 38,
       "blockId": 34
     },
     {
-      "horizontalPos": 46,
-      "y": 23,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 58,
-      "y": 24,
+      "horizontalPos": 227,
+      "y": 39,
       "blockId": 34
     },
     {
-      "horizontalPos": 9,
-      "y": 23,
-      "blockId": 35
+      "horizontalPos": 245,
+      "y": 36,
+      "blockId": 0
     },
     {
-      "horizontalPos": 9,
-      "y": 22,
-      "blockId": 42
+      "horizontalPos": 179,
+      "y": 36,
+      "blockId": 0
     },
     {
-      "horizontalPos": 11,
-      "y": 21,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 12,
-      "y": 21,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 14,
-      "y": 23,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 13,
-      "y": 21,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 25,
-      "y": 24,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 30,
-      "y": 24,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 9,
-      "y": 24,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 10,
-      "y": 25,
+      "horizontalPos": 179,
+      "y": 37,
       "blockId": 34
     },
     {
-      "horizontalPos": 27,
-      "y": 25,
-      "blockId": 35
+      "horizontalPos": 179,
+      "y": 38,
+      "blockId": 34
     },
     {
-      "horizontalPos": 13,
-      "y": 25,
-      "blockId": 35
+      "horizontalPos": 146,
+      "y": 37,
+      "blockId": 0
     },
     {
-      "horizontalPos": 28,
-      "y": 25,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 14,
-      "y": 24,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 9,
-      "y": 25,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 8,
-      "y": 23,
-      "blockId": 35
+      "horizontalPos": 164,
+      "y": 37,
+      "blockId": 0
     }
   ]
 }

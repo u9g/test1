@@ -24,17 +24,17 @@
 | entity_update_attributes |
 | update_health |
 | experience |
-| block_change |
 | multi_block_change |
+| block_change |
 | spawn_entity_living |
-| world_event |
+| entity_equipment |
 | entity_head_rotation |
 | entity_destroy |
+| world_event |
 | entity_teleport |
 | entity_move_look |
 | rel_entity_move |
 | keep_alive |
-| entity_equipment |
 | entity_look |
 
 </p>

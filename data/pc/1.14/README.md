@@ -18,8 +18,10 @@
 | update_view_position |
 | update_light |
 | map_chunk |
-| spawn_entity_living |
+| spawn_entity |
 | entity_metadata |
+| entity_velocity |
+| spawn_entity_living |
 | entity_update_attributes |
 | world_border |
 | update_time |
@@ -29,21 +31,19 @@
 | update_health |
 | experience |
 | keep_alive |
-| entity_equipment |
-| advancements |
-| multi_block_change |
 | block_change |
-| entity_velocity |
-| entity_move_look |
+| multi_block_change |
+| advancements |
+| entity_teleport |
 | entity_head_rotation |
 | rel_entity_move |
-| spawn_entity |
-| entity_teleport |
-| sound_effect |
-| entity_destroy |
+| entity_move_look |
 | world_event |
+| entity_equipment |
+| entity_destroy |
+| sound_effect |
 | entity_look |
-| tile_entity_data |
+| set_passengers |
 
 </p>
 </details>
@@ -59,6 +59,7 @@
 | animation |
 | statistics |
 | block_break_animation |
+| tile_entity_data |
 | block_action |
 | boss_bar |
 | tab_complete |
@@ -93,7 +94,6 @@
 | scoreboard_display_objective |
 | attach_entity |
 | scoreboard_objective |
-| set_passengers |
 | teams |
 | scoreboard_score |
 | title |

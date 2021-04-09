@@ -1,8 +1,8 @@
 {
   "location": {
-    "x": -235,
-    "y": 19,
-    "z": 98
+    "x": 71,
+    "y": 15,
+    "z": 196
   },
   "action": 1,
   "nbtData": {
@@ -26,7 +26,7 @@
         "value": {
           "id": {
             "type": "string",
-            "value": "Skeleton"
+            "value": "Zombie"
           }
         }
       },
@@ -40,15 +40,15 @@
       },
       "x": {
         "type": "int",
-        "value": -235
+        "value": 71
       },
       "y": {
         "type": "int",
-        "value": 19
+        "value": 15
       },
       "z": {
         "type": "int",
-        "value": 98
+        "value": 196
       },
       "id": {
         "type": "string",

@@ -1,21 +1,26 @@
 {
-  "chunkX": -14,
-  "chunkZ": 2,
+  "chunkX": -17,
+  "chunkZ": 13,
   "records": [
     {
-      "horizontalPos": 244,
-      "y": 7,
-      "blockId": 0
+      "horizontalPos": 140,
+      "y": 45,
+      "blockId": 162
     },
     {
-      "horizontalPos": 244,
-      "y": 6,
-      "blockId": 160
+      "horizontalPos": 124,
+      "y": 45,
+      "blockId": 172
     },
     {
-      "horizontalPos": 243,
-      "y": 7,
-      "blockId": 160
+      "horizontalPos": 141,
+      "y": 45,
+      "blockId": 164
+    },
+    {
+      "horizontalPos": 156,
+      "y": 45,
+      "blockId": 164
     }
   ]
 }

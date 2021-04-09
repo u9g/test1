@@ -1,6 +1,6 @@
 {
-  "entityId": 92,
+  "entityId": 300,
   "velocityX": 0,
-  "velocityY": 0,
-  "velocityZ": 0
+  "velocityY": -5,
+  "velocityZ": 16
 }
