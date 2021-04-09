@@ -32,7 +32,6 @@ jobs:
         pwd
         generatePacketDumperCoverage ${{ matrix.mcVersionIndex }} md
         mkdir metadata && generatePacketDumperCoverage ${{ matrix.mcVersionIndex }} json
-        cd ..
         pwd
         rm -Rf server/ && rm -Rf versions/
         mkdir ${{ matrix.mcVersionIndex }}
@@ -75,9 +74,7 @@ jobs:
       run: |
         cd data/pc/artifacts
         node ../../../.github/workflows/run.js
-        pwd
         cd .. && mv artifacts/* .
-        pwd
         rm -Rf artifacts/
         
     - name: ls
