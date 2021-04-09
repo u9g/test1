@@ -69,7 +69,7 @@ jobs:
     - name: Delete all folders we want to overwrite
       run: |
         cd data/pc/artifacts
-        node .github/workflows/run.js
+        node ../../../.github/workflows/run.js
         pwd
         cd .. && mv artifacts/* .
         pwd
