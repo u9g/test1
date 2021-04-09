@@ -1,9 +1,9 @@
 {
-  "entityId": 245,
-  "dX": -8,
+  "entityId": 192,
+  "dX": -4,
   "dY": 0,
-  "dZ": -10,
-  "yaw": 97,
+  "dZ": 10,
+  "yaw": -14,
   "pitch": 0,
   "onGround": true
 }
