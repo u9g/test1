@@ -1,8 +1,8 @@
 {
   "location": {
-    "x": -96,
-    "y": 26,
-    "z": 288
+    "x": 49,
+    "y": 14,
+    "z": 135
   },
   "action": 1,
   "nbtData": {
@@ -11,7 +11,7 @@
     "value": {
       "EntityId": {
         "type": "string",
-        "value": "Skeleton"
+        "value": "Zombie"
       },
       "MaxNearbyEntities": {
         "type": "short",
@@ -27,15 +27,15 @@
       },
       "x": {
         "type": "int",
-        "value": -96
+        "value": 49
       },
       "y": {
         "type": "int",
-        "value": 26
+        "value": 14
       },
       "z": {
         "type": "int",
-        "value": 288
+        "value": 135
       },
       "id": {
         "type": "string",
