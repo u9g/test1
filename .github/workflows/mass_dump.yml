@@ -1,4 +1,4 @@
-name: Run Auto Many Packets
+name: Run Mass Dump
 
 on:
   workflow_dispatch:
