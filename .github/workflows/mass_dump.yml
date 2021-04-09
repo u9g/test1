@@ -28,8 +28,8 @@ jobs:
     - name: Use Dumper
       run: |
         npm i -g prismarine-packet-dumper
-        mkdir ${{ matrix.mcVersionIndex }}
-        mkdir ${{ matrix.mcVersionIndex }}/metadata
+        mkdir ${{ matrix.mcVersionIndex }} && mkdir ${{ matrix.mcVersionIndex }}/metadata
+        ls -R
         dumpPackets -v ${{ matrix.mcVersionIndex }} -t -s --statsFormat both --mdStatsSaveDir ${{ matrix.mcVersionIndex }} --jsonStatsSaveDir ${{ matrix.mcVersionIndex }}/metadata --packetsSaveDir ${{ matrix.mcVersionIndex }}
         ls
         
@@ -69,6 +69,7 @@ jobs:
         node ../../../.github/workflows/run.js
         cd .. && mv artifacts/* .
         rm -Rf artifacts/
+        ls -R
         
     - name: ls
       run: ls -R
