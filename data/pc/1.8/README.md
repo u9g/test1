@@ -16,28 +16,28 @@
 | update_time |
 | window_items |
 | set_slot |
-| map_chunk_bulk |
-| spawn_entity |
-| entity_metadata |
-| entity_velocity |
-| spawn_entity_living |
-| update_attributes |
-| world_event |
 | update_health |
 | experience |
+| map_chunk_bulk |
+| entity_metadata |
+| update_attributes |
+| spawn_entity_living |
+| world_event |
+| entity_velocity |
 | tile_entity_data |
-| entity_equipment |
 | entity_look |
-| entity_teleport |
 | entity_head_rotation |
+| entity_teleport |
 | entity_move_look |
+| entity_equipment |
 | rel_entity_move |
 | block_change |
+| spawn_entity |
 | multi_block_change |
 | entity_destroy |
 | keep_alive |
+| map_chunk |
 | entity_status |
-| named_sound_effect |
 
 </p>
 </details>
@@ -58,10 +58,10 @@
 | attach_entity |
 | entity_effect |
 | remove_entity_effect |
-| map_chunk |
 | block_action |
 | block_break_animation |
 | explosion |
+| named_sound_effect |
 | world_particles |
 | game_state_change |
 | spawn_entity_weather |

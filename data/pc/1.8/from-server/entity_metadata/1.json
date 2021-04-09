@@ -1,5 +1,5 @@
 {
-  "entityId": 110,
+  "entityId": 155,
   "metadata": [
     {
       "type": 0,
@@ -27,13 +27,44 @@
       "value": 0
     },
     {
-      "type": 5,
+      "type": 3,
+      "key": 6,
+      "value": 20
+    },
+    {
+      "type": 2,
+      "key": 7,
+      "value": 0
+    },
+    {
+      "type": 0,
+      "key": 8,
+      "value": 0
+    },
+    {
+      "type": 0,
+      "key": 9,
+      "value": 0
+    },
+    {
+      "type": 0,
       "key": 10,
-      "value": {
-        "blockId": 50,
-        "itemCount": 1,
-        "itemDamage": 0
-      }
+      "value": 127
+    },
+    {
+      "type": 0,
+      "key": 16,
+      "value": 0
+    },
+    {
+      "type": 3,
+      "key": 17,
+      "value": 0
+    },
+    {
+      "type": 2,
+      "key": 18,
+      "value": 0
     }
   ]
 }
