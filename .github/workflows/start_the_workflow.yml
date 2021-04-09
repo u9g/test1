@@ -70,6 +70,7 @@ jobs:
       run: |
         cd data/pc/artifacts
         node .github/workflows/run.js
+        pwd
         cd .. && mv artifacts/* .
         pwd
         rm -Rf artifacts/
