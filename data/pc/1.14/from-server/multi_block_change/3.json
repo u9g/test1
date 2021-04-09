@@ -1,86 +1,26 @@
 {
-  "chunkX": -13,
-  "chunkZ": 3,
+  "chunkX": -1,
+  "chunkZ": -12,
   "records": [
     {
-      "horizontalPos": 214,
-      "y": 24,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 231,
-      "y": 24,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 215,
-      "y": 23,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 215,
+      "horizontalPos": 121,
       "y": 22,
-      "blockId": 42
+      "blockId": 37
     },
     {
-      "horizontalPos": 215,
-      "y": 21,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 214,
-      "y": 16,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 247,
-      "y": 25,
-      "blockId": 35
-    },
-    {
-      "horizontalPos": 247,
-      "y": 24,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 247,
-      "y": 23,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 247,
+      "horizontalPos": 106,
       "y": 22,
-      "blockId": 42
+      "blockId": 37
     },
     {
-      "horizontalPos": 247,
-      "y": 21,
-      "blockId": 42
+      "horizontalPos": 138,
+      "y": 22,
+      "blockId": 37
     },
     {
-      "horizontalPos": 247,
-      "y": 20,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 247,
-      "y": 19,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 247,
-      "y": 18,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 247,
-      "y": 17,
-      "blockId": 42
-    },
-    {
-      "horizontalPos": 248,
-      "y": 25,
-      "blockId": 35
+      "horizontalPos": 155,
+      "y": 22,
+      "blockId": 37
     }
   ]
 }

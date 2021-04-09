@@ -1,55 +1,105 @@
 {
-  "chunkX": 7,
-  "chunkZ": 18,
+  "chunkX": -9,
+  "chunkZ": 9,
   "records": [
     {
-      "horizontalPos": 158,
-      "y": 15,
+      "horizontalPos": 195,
+      "y": 18,
       "blockId": 0
     },
     {
-      "horizontalPos": 77,
-      "y": 15,
+      "horizontalPos": 178,
+      "y": 18,
       "blockId": 0
     },
     {
-      "horizontalPos": 76,
-      "y": 16,
+      "horizontalPos": 179,
+      "y": 18,
       "blockId": 0
     },
     {
-      "horizontalPos": 43,
-      "y": 16,
+      "horizontalPos": 196,
+      "y": 18,
       "blockId": 0
     },
     {
-      "horizontalPos": 28,
-      "y": 15,
+      "horizontalPos": 163,
+      "y": 19,
       "blockId": 0
     },
     {
-      "horizontalPos": 27,
-      "y": 9,
+      "horizontalPos": 162,
+      "y": 18,
       "blockId": 0
     },
     {
-      "horizontalPos": 26,
-      "y": 10,
+      "horizontalPos": 180,
+      "y": 18,
       "blockId": 0
     },
     {
-      "horizontalPos": 11,
-      "y": 10,
+      "horizontalPos": 164,
+      "y": 19,
       "blockId": 0
     },
     {
-      "horizontalPos": 246,
-      "y": 17,
+      "horizontalPos": 146,
+      "y": 19,
       "blockId": 0
     },
     {
-      "horizontalPos": 231,
-      "y": 17,
+      "horizontalPos": 147,
+      "y": 19,
+      "blockId": 0
+    },
+    {
+      "horizontalPos": 148,
+      "y": 19,
+      "blockId": 0
+    },
+    {
+      "horizontalPos": 165,
+      "y": 19,
+      "blockId": 0
+    },
+    {
+      "horizontalPos": 131,
+      "y": 19,
+      "blockId": 0
+    },
+    {
+      "horizontalPos": 132,
+      "y": 19,
+      "blockId": 0
+    },
+    {
+      "horizontalPos": 133,
+      "y": 19,
+      "blockId": 0
+    },
+    {
+      "horizontalPos": 149,
+      "y": 19,
+      "blockId": 0
+    },
+    {
+      "horizontalPos": 116,
+      "y": 19,
+      "blockId": 0
+    },
+    {
+      "horizontalPos": 117,
+      "y": 19,
+      "blockId": 0
+    },
+    {
+      "horizontalPos": 175,
+      "y": 18,
+      "blockId": 0
+    },
+    {
+      "horizontalPos": 159,
+      "y": 18,
       "blockId": 0
     }
   ]

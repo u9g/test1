@@ -1,9 +1,9 @@
 {
-  "entityId": 298,
+  "entityId": 287,
   "slot": 0,
   "item": {
     "present": true,
-    "itemId": 525,
+    "itemId": 857,
     "itemCount": 1,
     "nbtData": {
       "type": "compound",

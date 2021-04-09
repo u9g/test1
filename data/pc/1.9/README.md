@@ -1,4 +1,4 @@
-<details><summary>Collected (33)</summary>
+<details><summary>Collected (35)</summary>
 <p>
 
 | Packet |
@@ -18,28 +18,30 @@
 | window_items |
 | set_slot |
 | map_chunk |
+| tile_entity_data |
 | entity_metadata |
 | entity_update_attributes |
 | update_health |
 | experience |
-| tile_entity_data |
-| spawn_entity_living |
-| entity_velocity |
-| entity_move_look |
-| entity_head_rotation |
-| rel_entity_move |
 | multi_block_change |
-| block_change |
-| entity_equipment |
+| spawn_entity_living |
 | spawn_entity |
+| entity_velocity |
+| entity_head_rotation |
+| block_change |
 | entity_teleport |
+| sound_effect |
+| entity_equipment |
 | entity_destroy |
+| world_event |
+| entity_move_look |
+| rel_entity_move |
 | keep_alive |
 | entity_look |
 
 </p>
 </details>
-<details><summary>Missing (44)</summary>
+<details><summary>Missing (42)</summary>
 <p>
 
 | Packet |
@@ -64,7 +66,6 @@
 | explosion |
 | unload_chunk |
 | game_state_change |
-| world_event |
 | world_particles |
 | map |
 | entity |
@@ -84,7 +85,6 @@
 | scoreboard_score |
 | title |
 | update_sign |
-| sound_effect |
 | playerlist_header |
 | collect |
 | entity_effect |

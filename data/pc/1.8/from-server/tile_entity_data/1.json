@@ -1,8 +1,8 @@
 {
   "location": {
-    "x": -225,
-    "y": 23,
-    "z": 279
+    "x": 57,
+    "y": 25,
+    "z": -97
   },
   "action": 1,
   "nbtData": {
@@ -11,7 +11,7 @@
     "value": {
       "EntityId": {
         "type": "string",
-        "value": "CaveSpider"
+        "value": "Zombie"
       },
       "MaxNearbyEntities": {
         "type": "short",
@@ -27,15 +27,15 @@
       },
       "x": {
         "type": "int",
-        "value": -225
+        "value": 57
       },
       "y": {
         "type": "int",
-        "value": 23
+        "value": 25
       },
       "z": {
         "type": "int",
-        "value": 279
+        "value": -97
       },
       "id": {
         "type": "string",

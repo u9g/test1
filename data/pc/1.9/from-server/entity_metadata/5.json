@@ -1,5 +1,5 @@
 {
-  "entityId": 151,
+  "entityId": 98,
   "metadata": [
     {
       "key": 0,
@@ -34,7 +34,7 @@
     {
       "key": 6,
       "type": 2,
-      "value": 10
+      "value": 4
     },
     {
       "key": 7,
@@ -58,11 +58,6 @@
     },
     {
       "key": 11,
-      "type": 6,
-      "value": false
-    },
-    {
-      "key": 12,
       "type": 6,
       "value": false
     }

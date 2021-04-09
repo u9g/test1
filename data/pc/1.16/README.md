@@ -31,17 +31,17 @@
 | update_health |
 | experience |
 | keep_alive |
-| entity_teleport |
 | rel_entity_move |
+| entity_move_look |
 | advancements |
 | entity_head_rotation |
-| entity_move_look |
-| block_change |
-| multi_block_change |
 | entity_equipment |
+| block_change |
+| entity_teleport |
 | world_event |
-| entity_look |
+| multi_block_change |
 | entity_destroy |
+| entity_look |
 
 </p>
 </details>

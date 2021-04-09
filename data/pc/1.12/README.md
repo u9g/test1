@@ -1,4 +1,4 @@
-<details><summary>Collected (33)</summary>
+<details><summary>Collected (32)</summary>
 <p>
 
 | Packet |
@@ -25,21 +25,20 @@
 | update_health |
 | experience |
 | multi_block_change |
-| block_change |
 | spawn_entity_living |
-| entity_equipment |
-| entity_head_rotation |
-| entity_destroy |
-| world_event |
 | entity_teleport |
+| block_change |
+| entity_head_rotation |
 | entity_move_look |
+| world_event |
+| entity_destroy |
 | rel_entity_move |
+| entity_equipment |
 | keep_alive |
-| entity_look |
 
 </p>
 </details>
-<details><summary>Missing (46)</summary>
+<details><summary>Missing (47)</summary>
 <p>
 
 | Packet |
@@ -69,6 +68,7 @@
 | game_state_change |
 | world_particles |
 | map |
+| entity_look |
 | entity |
 | vehicle_move |
 | open_sign_entity |
