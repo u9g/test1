@@ -1,95 +1,65 @@
 {
-  "chunkX": -22,
-  "chunkZ": -17,
+  "chunkX": -15,
+  "chunkZ": 9,
   "records": [
     {
-      "horizontalPos": 118,
-      "y": 51,
+      "horizontalPos": 221,
+      "y": 36,
       "blockId": 0
     },
     {
-      "horizontalPos": 119,
-      "y": 51,
+      "horizontalPos": 253,
+      "y": 35,
       "blockId": 0
     },
     {
-      "horizontalPos": 102,
-      "y": 51,
+      "horizontalPos": 220,
+      "y": 36,
       "blockId": 0
     },
     {
-      "horizontalPos": 103,
-      "y": 51,
+      "horizontalPos": 252,
+      "y": 35,
       "blockId": 0
     },
     {
-      "horizontalPos": 134,
-      "y": 51,
+      "horizontalPos": 204,
+      "y": 36,
       "blockId": 0
     },
     {
-      "horizontalPos": 135,
-      "y": 51,
+      "horizontalPos": 219,
+      "y": 36,
       "blockId": 0
     },
     {
-      "horizontalPos": 101,
-      "y": 51,
+      "horizontalPos": 251,
+      "y": 35,
       "blockId": 0
     },
     {
-      "horizontalPos": 117,
-      "y": 51,
+      "horizontalPos": 235,
+      "y": 36,
       "blockId": 0
     },
     {
-      "horizontalPos": 133,
-      "y": 51,
+      "horizontalPos": 234,
+      "y": 35,
       "blockId": 0
     },
     {
-      "horizontalPos": 84,
-      "y": 51,
+      "horizontalPos": 203,
+      "y": 36,
       "blockId": 0
     },
     {
-      "horizontalPos": 100,
-      "y": 51,
+      "horizontalPos": 202,
+      "y": 35,
       "blockId": 0
     },
     {
-      "horizontalPos": 115,
-      "y": 51,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 116,
-      "y": 51,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 132,
-      "y": 51,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 99,
-      "y": 51,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 131,
-      "y": 51,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 83,
-      "y": 51,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 98,
-      "y": 51,
+      "horizontalPos": 218,
+      "y": 36,
       "blockId": 0
     }
   ]

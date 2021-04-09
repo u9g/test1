@@ -23,7 +23,6 @@
 | entity_update_attributes |
 | spawn_entity |
 | entity_velocity |
-| entity_equipment |
 | world_border |
 | update_time |
 | spawn_position |
@@ -32,16 +31,17 @@
 | update_health |
 | experience |
 | keep_alive |
+| block_change |
+| multi_block_change |
+| entity_equipment |
+| entity_teleport |
 | rel_entity_move |
 | advancements |
-| entity_look |
 | entity_head_rotation |
-| entity_teleport |
+| world_event |
 | entity_move_look |
-| multi_block_change |
-| block_change |
+| entity_look |
 | entity_destroy |
-| sound_effect |
 
 </p>
 </details>
@@ -74,7 +74,6 @@
 | unload_chunk |
 | game_state_change |
 | open_horse_window |
-| world_event |
 | world_particles |
 | map |
 | trade_list |
@@ -98,6 +97,7 @@
 | title |
 | entity_sound_effect |
 | stop_sound |
+| sound_effect |
 | playerlist_header |
 | collect |
 | entity_effect |

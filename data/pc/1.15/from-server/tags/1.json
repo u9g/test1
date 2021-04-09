@@ -1,0 +1,1467 @@
+{
+  "blockTags": [
+    {
+      "tagName": "minecraft:enderman_holdable",
+      "entries": [
+        123,
+        28,
+        130,
+        127,
+        129,
+        236,
+        136,
+        124,
+        186,
+        125,
+        191,
+        190,
+        29,
+        11,
+        30,
+        195,
+        131,
+        8,
+        128,
+        121,
+        245,
+        126,
+        118,
+        10,
+        122,
+        132,
+        120,
+        185,
+        119,
+        9
+      ]
+    },
+    {
+      "tagName": "minecraft:banners",
+      "entries": [
+        419,
+        437,
+        424,
+        435,
+        429,
+        434,
+        412,
+        408,
+        414,
+        423,
+        439,
+        411,
+        417,
+        418,
+        420,
+        438,
+        431,
+        425,
+        427,
+        415,
+        430,
+        432,
+        426,
+        428,
+        409,
+        413,
+        433,
+        410,
+        422,
+        416,
+        421,
+        436
+      ]
+    },
+    {
+      "tagName": "minecraft:flower_pots",
+      "entries": [
+        297,
+        290,
+        291,
+        292,
+        276,
+        615,
+        275,
+        294,
+        279,
+        293,
+        286,
+        281,
+        273,
+        287,
+        283,
+        274,
+        278,
+        280,
+        284,
+        295,
+        288,
+        289,
+        277,
+        282,
+        296,
+        285
+      ]
+    },
+    {
+      "tagName": "minecraft:wooden_fences",
+      "entries": [
+        475,
+        472,
+        189,
+        474,
+        473,
+        476
+      ]
+    },
+    {
+      "tagName": "minecraft:wooden_slabs",
+      "entries": [
+        448,
+        445,
+        447,
+        444,
+        449,
+        446
+      ]
+    },
+    {
+      "tagName": "minecraft:portals",
+      "entries": [
+        194,
+        491,
+        254
+      ]
+    },
+    {
+      "tagName": "minecraft:small_flowers",
+      "entries": [
+        123,
+        126,
+        118,
+        130,
+        127,
+        129,
+        122,
+        124,
+        125,
+        120,
+        119,
+        128,
+        121
+      ]
+    },
+    {
+      "tagName": "minecraft:bamboo_plantable_on",
+      "entries": [
+        28,
+        10,
+        29,
+        614,
+        613,
+        30,
+        11,
+        8,
+        9,
+        245
+      ]
+    },
+    {
+      "tagName": "minecraft:wooden_trapdoors",
+      "entries": [
+        220,
+        219,
+        218,
+        215,
+        217,
+        216
+      ]
+    },
+    {
+      "tagName": "minecraft:jungle_logs",
+      "entries": [
+        42,
+        55,
+        37,
+        49
+      ]
+    },
+    {
+      "tagName": "minecraft:wooden_stairs",
+      "entries": [
+        144,
+        267,
+        268,
+        266,
+        368,
+        367
+      ]
+    },
+    {
+      "tagName": "minecraft:spruce_logs",
+      "entries": [
+        53,
+        35,
+        47,
+        40
+      ]
+    },
+    {
+      "tagName": "minecraft:signs",
+      "entries": [
+        166,
+        154,
+        165,
+        153,
+        155,
+        163,
+        157,
+        167,
+        156,
+        168,
+        158,
+        164
+      ]
+    },
+    {
+      "tagName": "minecraft:carpets",
+      "entries": [
+        398,
+        383,
+        389,
+        386,
+        395,
+        391,
+        388,
+        393,
+        394,
+        385,
+        387,
+        397,
+        390,
+        384,
+        392,
+        396
+      ]
+    },
+    {
+      "tagName": "minecraft:wool",
+      "entries": [
+        102,
+        109,
+        113,
+        101,
+        107,
+        115,
+        105,
+        116,
+        110,
+        103,
+        114,
+        106,
+        111,
+        112,
+        104,
+        108
+      ]
+    },
+    {
+      "tagName": "minecraft:wooden_buttons",
+      "entries": [
+        300,
+        305,
+        303,
+        301,
+        302,
+        304
+      ]
+    },
+    {
+      "tagName": "minecraft:stairs",
+      "entries": [
+        626,
+        624,
+        628,
+        625,
+        368,
+        629,
+        268,
+        243,
+        619,
+        487,
+        632,
+        377,
+        627,
+        376,
+        144,
+        443,
+        267,
+        375,
+        332,
+        367,
+        249,
+        630,
+        631,
+        623,
+        260,
+        244,
+        266,
+        620,
+        622,
+        162,
+        621
+      ]
+    },
+    {
+      "tagName": "minecraft:logs",
+      "entries": [
+        51,
+        41,
+        38,
+        45,
+        50,
+        36,
+        43,
+        34,
+        46,
+        49,
+        57,
+        42,
+        39,
+        53,
+        55,
+        48,
+        52,
+        35,
+        47,
+        44,
+        56,
+        54,
+        40,
+        37
+      ]
+    },
+    {
+      "tagName": "minecraft:stone_bricks",
+      "entries": [
+        222,
+        223,
+        221,
+        224
+      ]
+    },
+    {
+      "tagName": "minecraft:beehives",
+      "entries": [
+        677,
+        676
+      ]
+    },
+    {
+      "tagName": "minecraft:ice",
+      "entries": [
+        183,
+        401,
+        611,
+        494
+      ]
+    },
+    {
+      "tagName": "minecraft:dragon_immune",
+      "entries": [
+        25,
+        673,
+        256,
+        255,
+        492,
+        491,
+        254,
+        139,
+        370,
+        493,
+        674,
+        269,
+        117,
+        234
+      ]
+    },
+    {
+      "tagName": "minecraft:crops",
+      "entries": [
+        298,
+        489,
+        150,
+        299,
+        240,
+        239
+      ]
+    },
+    {
+      "tagName": "minecraft:wall_signs",
+      "entries": [
+        166,
+        165,
+        163,
+        167,
+        168,
+        164
+      ]
+    },
+    {
+      "tagName": "minecraft:slabs",
+      "entries": [
+        634,
+        636,
+        460,
+        378,
+        379,
+        446,
+        454,
+        450,
+        447,
+        462,
+        457,
+        444,
+        645,
+        637,
+        455,
+        452,
+        451,
+        456,
+        448,
+        380,
+        635,
+        641,
+        461,
+        449,
+        643,
+        459,
+        639,
+        445,
+        633,
+        453,
+        638,
+        644,
+        458,
+        640,
+        642
+      ]
+    },
+    {
+      "tagName": "minecraft:valid_spawn",
+      "entries": [
+        11,
+        8
+      ]
+    },
+    {
+      "tagName": "minecraft:wooden_doors",
+      "entries": [
+        159,
+        478,
+        481,
+        477,
+        479,
+        480
+      ]
+    },
+    {
+      "tagName": "minecraft:standing_signs",
+      "entries": [
+        154,
+        153,
+        155,
+        157,
+        156,
+        158
+      ]
+    },
+    {
+      "tagName": "minecraft:trapdoors",
+      "entries": [
+        220,
+        219,
+        218,
+        215,
+        217,
+        216,
+        371
+      ]
+    },
+    {
+      "tagName": "minecraft:buttons",
+      "entries": [
+        300,
+        305,
+        181,
+        303,
+        301,
+        302,
+        304
+      ]
+    },
+    {
+      "tagName": "minecraft:flowers",
+      "entries": [
+        405,
+        123,
+        126,
+        118,
+        130,
+        403,
+        127,
+        129,
+        122,
+        124,
+        402,
+        125,
+        120,
+        404,
+        119,
+        128,
+        121
+      ]
+    },
+    {
+      "tagName": "minecraft:corals",
+      "entries": [
+        596,
+        586,
+        585,
+        587,
+        589,
+        588,
+        598,
+        599,
+        597,
+        595
+      ]
+    },
+    {
+      "tagName": "minecraft:planks",
+      "entries": [
+        17,
+        18,
+        13,
+        16,
+        14,
+        15
+      ]
+    },
+    {
+      "tagName": "minecraft:dark_oak_logs",
+      "entries": [
+        51,
+        57,
+        39,
+        44
+      ]
+    },
+    {
+      "tagName": "minecraft:rails",
+      "entries": [
+        161,
+        333,
+        90,
+        91
+      ]
+    },
+    {
+      "tagName": "minecraft:coral_plants",
+      "entries": [
+        586,
+        585,
+        587,
+        589,
+        588
+      ]
+    },
+    {
+      "tagName": "minecraft:leaves",
+      "entries": [
+        59,
+        63,
+        61,
+        62,
+        58,
+        60
+      ]
+    },
+    {
+      "tagName": "minecraft:walls",
+      "entries": [
+        654,
+        657,
+        655,
+        649,
+        652,
+        647,
+        651,
+        653,
+        272,
+        650,
+        646,
+        271,
+        648,
+        656
+      ]
+    },
+    {
+      "tagName": "minecraft:coral_blocks",
+      "entries": [
+        577,
+        575,
+        576,
+        578,
+        579
+      ]
+    },
+    {
+      "tagName": "minecraft:shulker_boxes",
+      "entries": [
+        509,
+        507,
+        501,
+        511,
+        506,
+        513,
+        516,
+        512,
+        517,
+        514,
+        510,
+        502,
+        505,
+        503,
+        515,
+        504,
+        508
+      ]
+    },
+    {
+      "tagName": "minecraft:bee_growables",
+      "entries": [
+        298,
+        489,
+        150,
+        299,
+        672,
+        240,
+        239
+      ]
+    },
+    {
+      "tagName": "minecraft:wooden_pressure_plates",
+      "entries": [
+        174,
+        177,
+        173,
+        175,
+        172,
+        176
+      ]
+    },
+    {
+      "tagName": "minecraft:wither_immune",
+      "entries": [
+        25,
+        493,
+        673,
+        674,
+        255,
+        269,
+        492,
+        491,
+        117,
+        254,
+        370
+      ]
+    },
+    {
+      "tagName": "minecraft:acacia_logs",
+      "entries": [
+        38,
+        50,
+        43,
+        56
+      ]
+    },
+    {
+      "tagName": "minecraft:anvil",
+      "entries": [
+        320,
+        319,
+        318
+      ]
+    },
+    {
+      "tagName": "minecraft:tall_flowers",
+      "entries": [
+        405,
+        404,
+        403,
+        402
+      ]
+    },
+    {
+      "tagName": "minecraft:birch_logs",
+      "entries": [
+        41,
+        36,
+        48,
+        54
+      ]
+    },
+    {
+      "tagName": "minecraft:wall_corals",
+      "entries": [
+        607,
+        605,
+        609,
+        608,
+        606
+      ]
+    },
+    {
+      "tagName": "minecraft:underwater_bonemeals",
+      "entries": [
+        586,
+        585,
+        589,
+        607,
+        609,
+        608,
+        598,
+        599,
+        597,
+        606,
+        596,
+        587,
+        605,
+        588,
+        595,
+        97
+      ]
+    },
+    {
+      "tagName": "minecraft:impermeable",
+      "entries": [
+        202,
+        204,
+        206,
+        212,
+        211,
+        199,
+        200,
+        208,
+        201,
+        207,
+        210,
+        203,
+        213,
+        209,
+        214,
+        66,
+        205
+      ]
+    },
+    {
+      "tagName": "minecraft:sand",
+      "entries": [
+        28,
+        29
+      ]
+    },
+    {
+      "tagName": "minecraft:fences",
+      "entries": [
+        475,
+        472,
+        189,
+        474,
+        473,
+        248,
+        476
+      ]
+    },
+    {
+      "tagName": "minecraft:saplings",
+      "entries": [
+        23,
+        19,
+        20,
+        21,
+        22,
+        24
+      ]
+    },
+    {
+      "tagName": "minecraft:beds",
+      "entries": [
+        82,
+        88,
+        87,
+        74,
+        84,
+        85,
+        78,
+        77,
+        86,
+        79,
+        81,
+        76,
+        80,
+        83,
+        75,
+        89
+      ]
+    },
+    {
+      "tagName": "minecraft:oak_logs",
+      "entries": [
+        45,
+        52,
+        34,
+        46
+      ]
+    },
+    {
+      "tagName": "minecraft:doors",
+      "entries": [
+        159,
+        478,
+        481,
+        477,
+        479,
+        480,
+        171
+      ]
+    }
+  ],
+  "itemTags": [
+    {
+      "tagName": "minecraft:banners",
+      "entries": [
+        806,
+        809,
+        814,
+        808,
+        804,
+        816,
+        807,
+        813,
+        815,
+        811,
+        812,
+        817,
+        802,
+        803,
+        805,
+        810
+      ]
+    },
+    {
+      "tagName": "minecraft:trapdoors",
+      "entries": [
+        298,
+        194,
+        197,
+        196,
+        195,
+        198,
+        193
+      ]
+    },
+    {
+      "tagName": "minecraft:wooden_fences",
+      "entries": [
+        186,
+        185,
+        181,
+        183,
+        182,
+        184
+      ]
+    },
+    {
+      "tagName": "minecraft:flowers",
+      "entries": [
+        100,
+        107,
+        324,
+        99,
+        106,
+        108,
+        102,
+        323,
+        103,
+        110,
+        326,
+        101,
+        98,
+        109,
+        325,
+        105,
+        104
+      ]
+    },
+    {
+      "tagName": "minecraft:buttons",
+      "entries": [
+        262,
+        260,
+        259,
+        264,
+        261,
+        263,
+        174
+      ]
+    },
+    {
+      "tagName": "minecraft:wooden_slabs",
+      "entries": [
+        120,
+        116,
+        119,
+        115,
+        118,
+        117
+      ]
+    },
+    {
+      "tagName": "minecraft:planks",
+      "entries": [
+        16,
+        17,
+        18,
+        15,
+        14,
+        13
+      ]
+    },
+    {
+      "tagName": "minecraft:boats",
+      "entries": [
+        834,
+        602,
+        831,
+        832,
+        833,
+        835
+      ]
+    },
+    {
+      "tagName": "minecraft:small_flowers",
+      "entries": [
+        100,
+        107,
+        99,
+        106,
+        108,
+        102,
+        103,
+        110,
+        101,
+        98,
+        109,
+        105,
+        104
+      ]
+    },
+    {
+      "tagName": "minecraft:dark_oak_logs",
+      "entries": [
+        43,
+        37,
+        55,
+        49
+      ]
+    },
+    {
+      "tagName": "minecraft:rails",
+      "entries": [
+        73,
+        279,
+        162,
+        72
+      ]
+    },
+    {
+      "tagName": "minecraft:wooden_trapdoors",
+      "entries": [
+        194,
+        197,
+        196,
+        195,
+        198,
+        193
+      ]
+    },
+    {
+      "tagName": "minecraft:leaves",
+      "entries": [
+        57,
+        58,
+        56,
+        60,
+        59,
+        61
+      ]
+    },
+    {
+      "tagName": "minecraft:walls",
+      "entries": [
+        250,
+        254,
+        245,
+        249,
+        252,
+        257,
+        255,
+        256,
+        253,
+        246,
+        258,
+        248,
+        247,
+        251
+      ]
+    },
+    {
+      "tagName": "minecraft:coals",
+      "entries": [
+        527,
+        528
+      ]
+    },
+    {
+      "tagName": "minecraft:jungle_logs",
+      "entries": [
+        41,
+        47,
+        53,
+        35
+      ]
+    },
+    {
+      "tagName": "minecraft:lectern_books",
+      "entries": [
+        758,
+        759
+      ]
+    },
+    {
+      "tagName": "minecraft:wooden_stairs",
+      "entries": [
+        320,
+        241,
+        319,
+        240,
+        242,
+        154
+      ]
+    },
+    {
+      "tagName": "minecraft:spruce_logs",
+      "entries": [
+        39,
+        51,
+        33,
+        45
+      ]
+    },
+    {
+      "tagName": "minecraft:signs",
+      "entries": [
+        593,
+        590,
+        594,
+        589,
+        591,
+        592
+      ]
+    },
+    {
+      "tagName": "minecraft:wooden_pressure_plates",
+      "entries": [
+        170,
+        166,
+        167,
+        171,
+        169,
+        168
+      ]
+    },
+    {
+      "tagName": "minecraft:carpets",
+      "entries": [
+        308,
+        311,
+        307,
+        312,
+        300,
+        302,
+        303,
+        315,
+        305,
+        313,
+        314,
+        301,
+        306,
+        309,
+        310,
+        304
+      ]
+    },
+    {
+      "tagName": "minecraft:wool",
+      "entries": [
+        84,
+        89,
+        92,
+        82,
+        83,
+        93,
+        97,
+        87,
+        96,
+        90,
+        88,
+        85,
+        95,
+        91,
+        86,
+        94
+      ]
+    },
+    {
+      "tagName": "minecraft:wooden_buttons",
+      "entries": [
+        262,
+        260,
+        259,
+        264,
+        261,
+        263
+      ]
+    },
+    {
+      "tagName": "minecraft:acacia_logs",
+      "entries": [
+        54,
+        36,
+        42,
+        48
+      ]
+    },
+    {
+      "tagName": "minecraft:stairs",
+      "entries": [
+        320,
+        482,
+        319,
+        242,
+        481,
+        235,
+        487,
+        478,
+        480,
+        364,
+        486,
+        241,
+        365,
+        152,
+        490,
+        489,
+        491,
+        479,
+        222,
+        366,
+        240,
+        228,
+        154,
+        163,
+        278,
+        485,
+        483,
+        484,
+        488,
+        371,
+        223
+      ]
+    },
+    {
+      "tagName": "minecraft:music_discs",
+      "entries": [
+        848,
+        842,
+        849,
+        852,
+        851,
+        843,
+        847,
+        841,
+        844,
+        846,
+        845,
+        850
+      ]
+    },
+    {
+      "tagName": "minecraft:fishes",
+      "entries": [
+        629,
+        625,
+        626,
+        630,
+        627,
+        628
+      ]
+    },
+    {
+      "tagName": "minecraft:anvil",
+      "entries": [
+        267,
+        265,
+        266
+      ]
+    },
+    {
+      "tagName": "minecraft:tall_flowers",
+      "entries": [
+        324,
+        323,
+        325,
+        326
+      ]
+    },
+    {
+      "tagName": "minecraft:birch_logs",
+      "entries": [
+        46,
+        52,
+        34,
+        40
+      ]
+    },
+    {
+      "tagName": "minecraft:logs",
+      "entries": [
+        42,
+        37,
+        41,
+        34,
+        33,
+        48,
+        44,
+        47,
+        49,
+        53,
+        38,
+        32,
+        46,
+        39,
+        54,
+        43,
+        36,
+        52,
+        55,
+        51,
+        40,
+        50,
+        35,
+        45
+      ]
+    },
+    {
+      "tagName": "minecraft:stone_bricks",
+      "entries": [
+        207,
+        206,
+        208,
+        205
+      ]
+    },
+    {
+      "tagName": "minecraft:arrows",
+      "entries": [
+        827,
+        526,
+        826
+      ]
+    },
+    {
+      "tagName": "minecraft:sand",
+      "entries": [
+        27,
+        26
+      ]
+    },
+    {
+      "tagName": "minecraft:slabs",
+      "entries": [
+        500,
+        119,
+        115,
+        131,
+        495,
+        123,
+        128,
+        498,
+        493,
+        124,
+        126,
+        504,
+        122,
+        492,
+        494,
+        117,
+        497,
+        136,
+        125,
+        133,
+        121,
+        129,
+        120,
+        496,
+        116,
+        127,
+        499,
+        503,
+        132,
+        130,
+        118,
+        134,
+        501,
+        135,
+        502
+      ]
+    },
+    {
+      "tagName": "minecraft:fences",
+      "entries": [
+        186,
+        185,
+        181,
+        183,
+        227,
+        182,
+        184
+      ]
+    },
+    {
+      "tagName": "minecraft:wooden_doors",
+      "entries": [
+        508,
+        511,
+        507,
+        512,
+        509,
+        510
+      ]
+    },
+    {
+      "tagName": "minecraft:saplings",
+      "entries": [
+        22,
+        19,
+        21,
+        23,
+        20,
+        24
+      ]
+    },
+    {
+      "tagName": "minecraft:beds",
+      "entries": [
+        658,
+        663,
+        661,
+        659,
+        657,
+        662,
+        655,
+        669,
+        666,
+        660,
+        668,
+        667,
+        665,
+        654,
+        664,
+        656
+      ]
+    },
+    {
+      "tagName": "minecraft:oak_logs",
+      "entries": [
+        38,
+        32,
+        44,
+        50
+      ]
+    },
+    {
+      "tagName": "minecraft:doors",
+      "entries": [
+        508,
+        506,
+        511,
+        507,
+        512,
+        509,
+        510
+      ]
+    }
+  ],
+  "fluidTags": [
+    {
+      "tagName": "minecraft:lava",
+      "entries": [
+        4,
+        3
+      ]
+    },
+    {
+      "tagName": "minecraft:water",
+      "entries": [
+        1,
+        2
+      ]
+    }
+  ],
+  "entityTags": [
+    {
+      "tagName": "minecraft:beehive_inhabitors",
+      "entries": [
+        4
+      ]
+    },
+    {
+      "tagName": "minecraft:skeletons",
+      "entries": [
+        66,
+        75,
+        92
+      ]
+    },
+    {
+      "tagName": "minecraft:raiders",
+      "entries": [
+        90,
+        99,
+        34,
+        88,
+        87,
+        23
+      ]
+    },
+    {
+      "tagName": "minecraft:arrows",
+      "entries": [
+        2,
+        72
+      ]
+    }
+  ]
+}

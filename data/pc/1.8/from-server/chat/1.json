@@ -1,0 +1,4 @@
+{
+  "message": "{\"translate\":\"death.attack.drown\",\"with\":[{\"insertion\":\"nmptestbot\",\"clickEvent\":{\"action\":\"suggest_command\",\"value\":\"/msg nmptestbot \"},\"hoverEvent\":{\"action\":\"show_entity\",\"value\":\"{name:\\\"nmptestbot\\\",id:\\\"3591fdca-95ad-32a5-beb1-2a99402471c2\\\",}\"},\"text\":\"nmptestbot\"}]}",
+  "position": 1
+}

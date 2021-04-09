@@ -1,9 +1,9 @@
 {
-  "entityId": 69,
+  "entityId": 274,
   "properties": [
     {
       "key": "generic.movementSpeed",
-      "value": 0.30000001192092896,
+      "value": 0.699999988079071,
       "modifiers": []
     },
     {
