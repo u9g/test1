@@ -32,6 +32,8 @@ jobs:
         cd packets
         generatePacketDumperCoverage ${{ matrix.mcVersionIndex }} md
         mkdir metadata && generatePacketDumperCoverage ${{ matrix.mcVersionIndex }} json
+        rm -Rf server/ && rm -Rf versions/
+        rm -Rf launcher_accounts.json
         cd ..
         rm -Rf server/ && rm -Rf versions/
         mkdir ${{ matrix.mcVersionIndex }}
