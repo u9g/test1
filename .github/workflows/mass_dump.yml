@@ -30,7 +30,7 @@ jobs:
         npm i -g prismarine-packet-dumper
         mkdir ${{ matrix.mcVersionIndex }}
         mkdir ${{ matrix.mcVersionIndex }}/metadata
-        dumpPackets -v ${{ matrix.mcVersionIndex }} -t -s --statsFormat both --jsonStatsSaveDir metadata --packetsSaveDir ${{ matrix.mcVersionIndex }}
+        dumpPackets -v ${{ matrix.mcVersionIndex }} -t -s --statsFormat both --mdStatsSaveDir ${{ matrix.mcVersionIndex }} --jsonStatsSaveDir ${{ matrix.mcVersionIndex }}/metadata --packetsSaveDir ${{ matrix.mcVersionIndex }}
         ls
         
     - name: Upload artifacts
