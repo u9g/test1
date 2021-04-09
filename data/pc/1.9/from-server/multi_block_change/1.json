@@ -3,29 +3,14 @@
   "chunkZ": -20,
   "records": [
     {
-      "horizontalPos": 173,
-      "y": 47,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 157,
-      "y": 47,
-      "blockId": 0
-    },
-    {
       "horizontalPos": 140,
-      "y": 48,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 139,
-      "y": 48,
-      "blockId": 0
+      "y": 21,
+      "blockId": 132
     },
     {
       "horizontalPos": 156,
-      "y": 48,
-      "blockId": 0
+      "y": 21,
+      "blockId": 133
     }
   ]
 }
