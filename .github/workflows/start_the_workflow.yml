@@ -52,6 +52,11 @@ jobs:
         persist-credentials: false
         fetch-depth: 0
         
+    - name: Use Node.js 14.x
+      uses: actions/setup-node@v1
+      with:
+        node-version: 14.x
+        
     - name: make artifacts dir
       run: mkdir data/pc/artifacts
         
@@ -64,9 +69,7 @@ jobs:
     - name: Delete all folders we want to overwrite
       run: |
         cd data/pc/artifacts
-        pwd
-        for d in */.; do ! test -d ../"$d" || rm -Rf ../"$d"; done
-        pwd
+        node .github/workflows/run.js
         cd .. && mv artifacts/* .
         pwd
         rm -Rf artifacts/
