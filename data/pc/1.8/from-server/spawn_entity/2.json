@@ -1,15 +1,15 @@
 {
-  "entityId": 717,
-  "type": 70,
-  "x": -1168,
-  "y": 832,
-  "z": 8592,
+  "entityId": 111,
+  "type": 2,
+  "x": -5267,
+  "y": 541,
+  "z": 8390,
   "pitch": 0,
-  "yaw": 0,
+  "yaw": -90,
   "objectData": {
-    "intField": 13,
-    "velocityX": 0,
-    "velocityY": 0,
-    "velocityZ": 0
+    "intField": 1,
+    "velocityX": -98,
+    "velocityY": -3584,
+    "velocityZ": -405
   }
 }
