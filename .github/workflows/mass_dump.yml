@@ -28,9 +28,9 @@ jobs:
     - name: Use Dumper
       run: |
         npm i -g prismarine-packet-dumper
-        mkdir ${{ matrix.mcVersionIndex }} && cd ${{ matrix.mcVersionIndex }}
-        mkdir metadata
-        dumpPackets -v ${{ matrix.mcVersionIndex }} -t -s --statsFormat both --jsonStatsSaveDir metadata --packetsSaveDir .
+        mkdir ${{ matrix.mcVersionIndex }}
+        mkdir ${{ matrix.mcVersionIndex }}/metadata
+        dumpPackets -v ${{ matrix.mcVersionIndex }} -t -s --statsFormat both --jsonStatsSaveDir metadata --packetsSaveDir ${{ matrix.mcVersionIndex }}
         ls
         
     - name: Upload artifacts
