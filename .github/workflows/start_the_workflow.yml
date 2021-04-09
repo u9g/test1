@@ -29,6 +29,9 @@ jobs:
       run: |
         npm i -g prismarine-packet-dumper
         generateMinecraftPackets ${{ matrix.mcVersionIndex }}
+        generatePacketDumperCoverage ${{ matrix.mcVersionIndex }} md
+        mkdir metadata && generatePacketDumperCoverage ${{ matrix.mcVersionIndex }} json
+        cd ..
         rm -Rf server/ && rm -Rf versions/
         mkdir ${{ matrix.mcVersionIndex }}
         mv packets/* ./${{ matrix.mcVersionIndex }}/
