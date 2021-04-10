@@ -1,24 +1,19 @@
 {
-  "entityId": 109,
-  "type": 90,
-  "x": -8592,
-  "y": 2144,
-  "z": 5808,
-  "yaw": -11,
+  "entityId": 444,
+  "type": 94,
+  "x": 4080,
+  "y": 1600,
+  "z": 2064,
+  "yaw": -113,
   "pitch": 0,
-  "headPitch": 0,
+  "headPitch": 3,
   "velocityX": 0,
-  "velocityY": -627,
+  "velocityY": 0,
   "velocityZ": 0,
   "metadata": [
     {
       "type": 0,
       "key": 0,
-      "value": 0
-    },
-    {
-      "type": 0,
-      "key": 16,
       "value": 0
     },
     {
@@ -59,11 +54,6 @@
     {
       "type": 0,
       "key": 9,
-      "value": 0
-    },
-    {
-      "type": 0,
-      "key": 12,
       "value": 0
     },
     {
