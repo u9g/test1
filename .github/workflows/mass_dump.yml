@@ -68,11 +68,8 @@ jobs:
         cd data/pc/artifacts
         node ../../../.github/workflows/run.js
         cd .. && mv artifacts/* .
-        rm -Rf artifacts/
-        ls -R
+        rm -Rf artifacts/        
         
-    - name: ls
-      run: ls -R
     - name: Create commits
       run: |
           git config user.name 'u9g'
