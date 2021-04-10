@@ -1,4 +1,4 @@
-<details><summary>Collected (36)</summary>
+<details><summary>Collected (35)</summary>
 <p>
 
 | Packet |
@@ -16,33 +16,32 @@
 | update_time |
 | window_items |
 | set_slot |
+| update_health |
+| experience |
 | map_chunk_bulk |
+| tile_entity_data |
 | spawn_entity_living |
 | entity_metadata |
 | update_attributes |
-| update_health |
-| experience |
-| entity_head_rotation |
-| rel_entity_move |
-| entity_equipment |
-| entity_velocity |
-| entity_look |
-| entity_teleport |
-| entity_move_look |
-| block_change |
 | spawn_entity |
+| entity_velocity |
+| entity_head_rotation |
+| entity_equipment |
+| entity_teleport |
+| entity_look |
 | multi_block_change |
-| entity_status |
+| world_event |
+| block_change |
+| entity_move_look |
+| rel_entity_move |
 | entity_destroy |
-| tile_entity_data |
+| entity_status |
 | keep_alive |
 | map_chunk |
-| world_event |
-| named_sound_effect |
 
 </p>
 </details>
-<details><summary>Missing (38)</summary>
+<details><summary>Missing (39)</summary>
 <p>
 
 | Packet |
@@ -62,6 +61,7 @@
 | block_action |
 | block_break_animation |
 | explosion |
+| named_sound_effect |
 | world_particles |
 | game_state_change |
 | spawn_entity_weather |
