@@ -1,8 +1,8 @@
 {
-  "entityId": 2533,
+  "entityId": 1516,
   "slot": 0,
   "item": {
-    "blockId": 256,
+    "blockId": 261,
     "itemCount": 1,
     "itemDamage": 0
   }

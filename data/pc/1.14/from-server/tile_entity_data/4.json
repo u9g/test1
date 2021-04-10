@@ -1,0 +1,30 @@
+{
+  "location": {
+    "x": 54,
+    "z": 113,
+    "y": 69
+  },
+  "action": 11,
+  "nbtData": {
+    "type": "compound",
+    "name": "",
+    "value": {
+      "x": {
+        "type": "int",
+        "value": 54
+      },
+      "y": {
+        "type": "int",
+        "value": 69
+      },
+      "z": {
+        "type": "int",
+        "value": 113
+      },
+      "id": {
+        "type": "string",
+        "value": "minecraft:bed"
+      }
+    }
+  }
+}

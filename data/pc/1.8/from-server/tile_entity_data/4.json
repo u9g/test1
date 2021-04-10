@@ -1,8 +1,8 @@
 {
   "location": {
-    "x": -265,
-    "y": 36,
-    "z": 266
+    "x": -347,
+    "y": 26,
+    "z": 286
   },
   "action": 1,
   "nbtData": {
@@ -11,7 +11,7 @@
     "value": {
       "EntityId": {
         "type": "string",
-        "value": "CaveSpider"
+        "value": "Skeleton"
       },
       "MaxNearbyEntities": {
         "type": "short",
@@ -27,15 +27,15 @@
       },
       "x": {
         "type": "int",
-        "value": -265
+        "value": -347
       },
       "y": {
         "type": "int",
-        "value": 36
+        "value": 26
       },
       "z": {
         "type": "int",
-        "value": 266
+        "value": 286
       },
       "id": {
         "type": "string",

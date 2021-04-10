@@ -1,126 +1,16 @@
 {
-  "chunkX": -9,
-  "chunkZ": 11,
+  "chunkX": 4,
+  "chunkZ": -10,
   "records": [
     {
-      "horizontalPos": 227,
-      "y": 38,
+      "horizontalPos": 64,
+      "y": 19,
       "blockId": 0
     },
     {
-      "horizontalPos": 227,
-      "y": 32,
-      "blockId": 208
-    },
-    {
-      "horizontalPos": 227,
-      "y": 39,
+      "horizontalPos": 80,
+      "y": 19,
       "blockId": 0
-    },
-    {
-      "horizontalPos": 227,
-      "y": 33,
-      "blockId": 208
-    },
-    {
-      "horizontalPos": 180,
-      "y": 38,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 180,
-      "y": 32,
-      "blockId": 208
-    },
-    {
-      "horizontalPos": 228,
-      "y": 38,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 228,
-      "y": 33,
-      "blockId": 208
-    },
-    {
-      "horizontalPos": 228,
-      "y": 39,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 228,
-      "y": 34,
-      "blockId": 208
-    },
-    {
-      "horizontalPos": 198,
-      "y": 37,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 198,
-      "y": 34,
-      "blockId": 208
-    },
-    {
-      "horizontalPos": 198,
-      "y": 38,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 198,
-      "y": 35,
-      "blockId": 208
-    },
-    {
-      "horizontalPos": 198,
-      "y": 39,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 198,
-      "y": 36,
-      "blockId": 208
-    },
-    {
-      "horizontalPos": 214,
-      "y": 38,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 214,
-      "y": 34,
-      "blockId": 208
-    },
-    {
-      "horizontalPos": 214,
-      "y": 39,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 214,
-      "y": 35,
-      "blockId": 208
-    },
-    {
-      "horizontalPos": 215,
-      "y": 38,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 215,
-      "y": 35,
-      "blockId": 208
-    },
-    {
-      "horizontalPos": 215,
-      "y": 39,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 215,
-      "y": 36,
-      "blockId": 208
     }
   ]
 }

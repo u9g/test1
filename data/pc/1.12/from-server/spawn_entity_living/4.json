@@ -1,11 +1,11 @@
 {
-  "entityId": 62,
-  "entityUUID": "2406acb0-1495-406f-87a5-d2721c1365ef",
-  "type": 93,
-  "x": 149.5,
-  "y": 89,
-  "z": 204.5,
-  "yaw": -29,
+  "entityId": 103,
+  "entityUUID": "80b1cd73-fa95-4328-af94-8ac2464a9c7c",
+  "type": 91,
+  "x": -60.5,
+  "y": 79,
+  "z": 40.5,
+  "yaw": 53,
   "pitch": 0,
   "headPitch": 0,
   "velocityX": 0,
@@ -50,7 +50,7 @@
     {
       "key": 7,
       "type": 2,
-      "value": 4
+      "value": 8
     },
     {
       "key": 8,
@@ -76,6 +76,11 @@
       "key": 12,
       "type": 6,
       "value": false
+    },
+    {
+      "key": 13,
+      "type": 0,
+      "value": 12
     }
   ]
 }

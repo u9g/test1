@@ -1,251 +1,26 @@
 {
-  "chunkX": 11,
-  "chunkZ": -10,
+  "chunkX": -17,
+  "chunkZ": 10,
   "records": [
     {
-      "horizontalPos": 142,
-      "y": 78,
-      "blockId": 150
+      "horizontalPos": 69,
+      "y": 14,
+      "blockId": 35
     },
     {
-      "horizontalPos": 157,
-      "y": 78,
-      "blockId": 150
+      "horizontalPos": 56,
+      "y": 19,
+      "blockId": 35
     },
     {
-      "horizontalPos": 159,
-      "y": 78,
-      "blockId": 150
+      "horizontalPos": 164,
+      "y": 21,
+      "blockId": 35
     },
     {
-      "horizontalPos": 175,
-      "y": 78,
-      "blockId": 148
-    },
-    {
-      "horizontalPos": 189,
-      "y": 77,
-      "blockId": 150
-    },
-    {
-      "horizontalPos": 158,
-      "y": 78,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 190,
-      "y": 77,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 159,
-      "y": 77,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 175,
-      "y": 77,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 145,
-      "y": 72,
-      "blockId": 148
-    },
-    {
-      "horizontalPos": 161,
-      "y": 72,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 193,
-      "y": 72,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 177,
-      "y": 72,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 194,
-      "y": 73,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 210,
-      "y": 72,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 209,
-      "y": 72,
-      "blockId": 148
-    },
-    {
-      "horizontalPos": 89,
-      "y": 79,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 18,
-      "y": 75,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 67,
-      "y": 75,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 191,
-      "y": 78,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 205,
-      "y": 77,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 190,
-      "y": 78,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 89,
-      "y": 78,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 104,
-      "y": 78,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 74,
-      "y": 78,
-      "blockId": 152
-    },
-    {
-      "horizontalPos": 90,
-      "y": 78,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 76,
-      "y": 78,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 93,
-      "y": 79,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 110,
-      "y": 78,
-      "blockId": 148
-    },
-    {
-      "horizontalPos": 93,
-      "y": 78,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 197,
-      "y": 79,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 213,
-      "y": 79,
-      "blockId": 148
-    },
-    {
-      "horizontalPos": 214,
-      "y": 79,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 61,
-      "y": 77,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 93,
-      "y": 77,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 62,
-      "y": 77,
-      "blockId": 148
-    },
-    {
-      "horizontalPos": 31,
-      "y": 78,
-      "blockId": 150
-    },
-    {
-      "horizontalPos": 47,
-      "y": 76,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 63,
-      "y": 76,
-      "blockId": 148
-    },
-    {
-      "horizontalPos": 15,
-      "y": 76,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 31,
-      "y": 77,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 45,
-      "y": 77,
-      "blockId": 148
-    },
-    {
-      "horizontalPos": 3,
-      "y": 74,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 1,
-      "y": 74,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 251,
-      "y": 81,
-      "blockId": 152
-    },
-    {
-      "horizontalPos": 250,
-      "y": 81,
-      "blockId": 148
-    },
-    {
-      "horizontalPos": 182,
-      "y": 80,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 199,
-      "y": 80,
-      "blockId": 146
-    },
-    {
-      "horizontalPos": 166,
-      "y": 80,
-      "blockId": 148
+      "horizontalPos": 111,
+      "y": 32,
+      "blockId": 52
     }
   ]
 }

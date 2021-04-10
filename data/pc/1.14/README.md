@@ -1,4 +1,4 @@
-<details><summary>Collected (42)</summary>
+<details><summary>Collected (41)</summary>
 <p>
 
 | Packet |
@@ -18,10 +18,8 @@
 | update_view_position |
 | update_light |
 | map_chunk |
-| spawn_entity |
-| entity_metadata |
-| entity_velocity |
 | spawn_entity_living |
+| entity_metadata |
 | entity_update_attributes |
 | world_border |
 | update_time |
@@ -31,24 +29,25 @@
 | update_health |
 | experience |
 | keep_alive |
-| entity_equipment |
-| block_change |
-| rel_entity_move |
-| entity_teleport |
-| advancements |
 | world_event |
-| entity_head_rotation |
+| advancements |
+| block_change |
 | multi_block_change |
+| entity_velocity |
 | entity_move_look |
-| entity_look |
-| animation |
+| entity_head_rotation |
+| entity_equipment |
+| entity_teleport |
+| rel_entity_move |
+| spawn_entity |
 | entity_destroy |
+| entity_look |
+| tile_entity_data |
 | sound_effect |
-| set_passengers |
 
 </p>
 </details>
-<details><summary>Missing (50)</summary>
+<details><summary>Missing (51)</summary>
 <p>
 
 | Packet |
@@ -57,9 +56,9 @@
 | spawn_entity_weather |
 | spawn_entity_painting |
 | named_entity_spawn |
+| animation |
 | statistics |
 | block_break_animation |
-| tile_entity_data |
 | block_action |
 | boss_bar |
 | tab_complete |
@@ -94,6 +93,7 @@
 | scoreboard_display_objective |
 | attach_entity |
 | scoreboard_objective |
+| set_passengers |
 | teams |
 | scoreboard_score |
 | title |

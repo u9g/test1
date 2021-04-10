@@ -1,8 +1,8 @@
 {
   "location": {
-    "x": -334,
-    "y": 27,
-    "z": 267
+    "x": -203,
+    "y": 40,
+    "z": 124
   },
   "action": 1,
   "nbtData": {
@@ -26,7 +26,7 @@
         "value": {
           "id": {
             "type": "string",
-            "value": "Zombie"
+            "value": "CaveSpider"
           }
         }
       },
@@ -40,15 +40,15 @@
       },
       "x": {
         "type": "int",
-        "value": -334
+        "value": -203
       },
       "y": {
         "type": "int",
-        "value": 27
+        "value": 40
       },
       "z": {
         "type": "int",
-        "value": 267
+        "value": 124
       },
       "id": {
         "type": "string",

@@ -1,75 +1,45 @@
 {
-  "chunkX": -25,
-  "chunkZ": 22,
+  "chunkX": -12,
+  "chunkZ": 8,
   "records": [
     {
-      "horizontalPos": 67,
-      "y": 22,
+      "horizontalPos": 28,
+      "y": 47,
       "blockId": 0
     },
     {
-      "horizontalPos": 83,
-      "y": 22,
+      "horizontalPos": 44,
+      "y": 47,
       "blockId": 0
     },
     {
-      "horizontalPos": 52,
-      "y": 22,
+      "horizontalPos": 45,
+      "y": 47,
       "blockId": 0
     },
     {
-      "horizontalPos": 68,
-      "y": 22,
+      "horizontalPos": 11,
+      "y": 47,
       "blockId": 0
     },
     {
-      "horizontalPos": 37,
-      "y": 21,
+      "horizontalPos": 27,
+      "y": 48,
       "blockId": 0
     },
     {
-      "horizontalPos": 53,
-      "y": 22,
+      "horizontalPos": 9,
+      "y": 48,
       "blockId": 0
     },
     {
-      "horizontalPos": 69,
-      "y": 22,
+      "horizontalPos": 10,
+      "y": 48,
       "blockId": 0
     },
     {
-      "horizontalPos": 85,
-      "y": 21,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 84,
-      "y": 22,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 54,
-      "y": 21,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 70,
-      "y": 21,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 21,
-      "y": 21,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 38,
-      "y": 21,
-      "blockId": 0
-    },
-    {
-      "horizontalPos": 55,
-      "y": 21,
+      "horizontalPos": 26,
+      "y": 48,
       "blockId": 0
     }
   ]

@@ -2,8 +2,8 @@
   "entityId": 70,
   "properties": [
     {
-      "key": "generic.armor",
-      "value": 0,
+      "key": "generic.maxHealth",
+      "value": 8,
       "modifiers": []
     },
     {
@@ -12,8 +12,8 @@
       "modifiers": []
     },
     {
-      "key": "generic.maxHealth",
-      "value": 8,
+      "key": "generic.armor",
+      "value": 0,
       "modifiers": []
     }
   ]
