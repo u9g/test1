@@ -60,14 +60,14 @@ jobs:
       with:
         name: packets
         path: data/pc/artifacts
-        
+            
     - name: Delete all folders we want to overwrite
       run: |
         cd data/pc/artifacts
         node ../../../.github/workflows/run.js
         cd .. && mv artifacts/* .
         rm -Rf artifacts/
-        npm i minecraft-data
+        npm i -g minecraft-data
         node ../../.github/workflows/md-comment-maker.js
         rm -Rf node_modules 
         
