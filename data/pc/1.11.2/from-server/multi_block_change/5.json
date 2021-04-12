@@ -1,55 +1,60 @@
 {
-  "chunkX": 5,
-  "chunkZ": 9,
+  "chunkX": -17,
+  "chunkZ": 17,
   "records": [
     {
-      "horizontalPos": 17,
-      "y": 33,
+      "horizontalPos": 141,
+      "y": 64,
       "blockId": 0
     },
     {
-      "horizontalPos": 198,
-      "y": 16,
+      "horizontalPos": 125,
+      "y": 64,
       "blockId": 0
     },
     {
-      "horizontalPos": 199,
-      "y": 16,
+      "horizontalPos": 123,
+      "y": 65,
       "blockId": 0
     },
     {
-      "horizontalPos": 200,
-      "y": 16,
+      "horizontalPos": 140,
+      "y": 64,
       "blockId": 0
     },
     {
-      "horizontalPos": 181,
-      "y": 15,
+      "horizontalPos": 155,
+      "y": 64,
       "blockId": 0
     },
     {
-      "horizontalPos": 197,
-      "y": 16,
+      "horizontalPos": 139,
+      "y": 65,
       "blockId": 0
     },
     {
-      "horizontalPos": 180,
-      "y": 15,
+      "horizontalPos": 156,
+      "y": 64,
       "blockId": 0
     },
     {
-      "horizontalPos": 196,
-      "y": 16,
+      "horizontalPos": 154,
+      "y": 64,
       "blockId": 0
     },
     {
-      "horizontalPos": 195,
-      "y": 15,
+      "horizontalPos": 138,
+      "y": 65,
       "blockId": 0
     },
     {
-      "horizontalPos": 179,
-      "y": 15,
+      "horizontalPos": 137,
+      "y": 65,
+      "blockId": 0
+    },
+    {
+      "horizontalPos": 136,
+      "y": 64,
       "blockId": 0
     }
   ]

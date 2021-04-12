@@ -1,4 +1,4 @@
-<details><summary>Collected (41)</summary>
+<details><summary>Collected (40)</summary>
 <p>
 
 | Packet |
@@ -18,11 +18,11 @@
 | update_view_position |
 | update_light |
 | map_chunk |
-| spawn_entity |
-| entity_metadata |
-| entity_velocity |
 | spawn_entity_living |
+| entity_metadata |
 | entity_update_attributes |
+| spawn_entity |
+| entity_velocity |
 | world_border |
 | update_time |
 | spawn_position |
@@ -31,23 +31,22 @@
 | update_health |
 | experience |
 | keep_alive |
-| multi_block_change |
 | block_change |
-| rel_entity_move |
+| multi_block_change |
 | advancements |
-| entity_head_rotation |
 | entity_equipment |
-| entity_move_look |
-| world_event |
+| set_passengers |
+| entity_head_rotation |
+| rel_entity_move |
 | entity_teleport |
-| entity_destroy |
-| tile_entity_data |
-| sound_effect |
+| entity_move_look |
 | entity_look |
+| world_event |
+| entity_destroy |
 
 </p>
 </details>
-<details><summary>Missing (52)</summary>
+<details><summary>Missing (53)</summary>
 <p>
 
 | Packet |
@@ -59,6 +58,7 @@
 | animation |
 | statistics |
 | block_break_animation |
+| tile_entity_data |
 | block_action |
 | boss_bar |
 | tab_complete |
@@ -93,12 +93,12 @@
 | scoreboard_display_objective |
 | attach_entity |
 | scoreboard_objective |
-| set_passengers |
 | teams |
 | scoreboard_score |
 | title |
 | entity_sound_effect |
 | stop_sound |
+| sound_effect |
 | playerlist_header |
 | collect |
 | entity_effect |

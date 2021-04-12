@@ -1,6 +1,6 @@
 {
-  "entityId": 116,
-  "yaw": 0,
+  "entityId": 123,
+  "yaw": 50,
   "pitch": 0,
-  "onGround": false
+  "onGround": true
 }

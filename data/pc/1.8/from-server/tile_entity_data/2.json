@@ -1,8 +1,8 @@
 {
   "location": {
-    "x": -105,
-    "y": 33,
-    "z": 205
+    "x": 241,
+    "y": 17,
+    "z": -236
   },
   "action": 1,
   "nbtData": {
@@ -27,15 +27,15 @@
       },
       "x": {
         "type": "int",
-        "value": -105
+        "value": 241
       },
       "y": {
         "type": "int",
-        "value": 33
+        "value": 17
       },
       "z": {
         "type": "int",
-        "value": 205
+        "value": -236
       },
       "id": {
         "type": "string",

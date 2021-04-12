@@ -1,9 +1,9 @@
 {
-  "entityId": 25,
+  "entityId": 40,
   "properties": [
     {
       "key": "generic.maxHealth",
-      "value": 21,
+      "value": 10,
       "modifiers": []
     },
     {
@@ -13,17 +13,12 @@
     },
     {
       "key": "generic.movementSpeed",
-      "value": 0.17499999701976776,
+      "value": 0.25,
       "modifiers": []
     },
     {
       "key": "generic.armor",
       "value": 0,
-      "modifiers": []
-    },
-    {
-      "key": "horse.jumpStrength",
-      "value": 0.5,
       "modifiers": []
     }
   ]

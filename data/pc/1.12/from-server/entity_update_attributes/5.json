@@ -1,6 +1,11 @@
 {
-  "entityId": 103,
+  "entityId": 58,
   "properties": [
+    {
+      "key": "generic.movementSpeed",
+      "value": 0.25,
+      "modifiers": []
+    },
     {
       "key": "generic.armorToughness",
       "value": 0,
@@ -8,12 +13,7 @@
     },
     {
       "key": "generic.maxHealth",
-      "value": 8,
-      "modifiers": []
-    },
-    {
-      "key": "generic.movementSpeed",
-      "value": 0.23000000417232513,
+      "value": 10,
       "modifiers": []
     },
     {
