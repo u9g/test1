@@ -70,7 +70,7 @@ jobs:
         mkdir -p ../../.github/workflows/node_modules
         npm i --prefix ../../.github/workflows minecraft-data
         node ../../.github/workflows/md-comment-maker.js
-        rm -Rf ../../.github/workflows/node_modules
+        rm -Rf ../../.github/workflows/node_modules && rm -Rf ../../.github/workflows/package-lock.json && rm -Rf ../../.github/workflows/package.json # cleanup npm 
         
     - name: Create commits
       run: |
