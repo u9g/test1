@@ -68,7 +68,7 @@ jobs:
         cd .. && mv artifacts/* .
         rm -Rf artifacts/
         npm i minecraft-data
-        node ../../../.github/workflows/md-comment-maker.js
+        node ../../.github/workflows/md-comment-maker.js
         rm -Rf node_modules 
         
     - name: Create commits
