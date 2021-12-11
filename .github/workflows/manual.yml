@@ -1,0 +1,17 @@
+name: Dump minecraft data to artifact
+on:
+  workflow_dispatch:
+    inputs:
+      name:
+        description: 'Minecraft Version'
+        default: '1.18'
+        required: true
+
+jobs:
+  greet:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Setup Node.js environment
+      uses: actions/setup-node@v2.5.0
+    - name: Send greeting
+      run: node -v
