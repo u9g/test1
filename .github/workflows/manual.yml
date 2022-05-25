@@ -1,5 +1,5 @@
 name: Dump minecraft data to artifact
-on:
+on: 
   workflow_dispatch:
     inputs:
       name:
